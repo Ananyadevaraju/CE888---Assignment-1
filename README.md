@@ -8,4 +8,4 @@ Machine learning algorithms are being used across various domains with the aim o
 The data for stop,question and frisk for the year 2019 in New York is obtained from https://www1.nyc.gov/site/nypd/stats/reports-analysis/stopfrisk.page .
 
 ### Aim:
-The objective is to detect whether sensitive features like gender and race of the subject determines the outcome, arrest or no arrest. In addition, fairness techniques are used to mitigate the observed bias, to make the model more reliable.
+The objective is to detect whether sensitive features like gender and race of the subject determine the outcome, arrest or no arrest. In addition, fairness techniques are used to mitigate the observed bias, to make the model more reliable.
